@@ -1,0 +1,5 @@
+requests
+solana
+heliuspy
+# Optional for dashboard
+streamlit 
